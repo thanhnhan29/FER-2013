@@ -9,6 +9,3 @@ Learn facial expressions from an image. link kaggle: https://www.kaggle.com/comp
 - F1 score: 0.53
 - Precision: 0.53
 - Recall: 0.55
-
-### Confusion Matrix
-![](confusion_matrix.png)
